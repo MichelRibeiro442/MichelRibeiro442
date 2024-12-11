@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/1200x400?text=Hi+there,+I'm+a+Frontend+Engineer!+%F0%9F%91%8B)
+![Header](https://camo.githubusercontent.com/84b13b9414aa8f81a8b999ad66c041cb9fbafd4193c1f26d294d01ca34f092b2/68747470733a2f2f616e6b753235352e6769746875622e696f2f6173736574732f696d672f706f7374732f68656c6c6f2d776f726c642e6a7067)
 
 # 🚀 About Me
 
@@ -24,4 +24,4 @@ I also love writing and creating videos for my YouTube channel, where I share re
 
 ---
 
-![Footer](https://s2.r29static.com/bin/entry/eef/0,0,2000,1050/x,80/1997702/image.jpg)
+<img src="https://s2.r29static.com/bin/entry/eef/0,0,2000,1050/x,80/1997702/image.jpg" alt="Footer" width="500">
