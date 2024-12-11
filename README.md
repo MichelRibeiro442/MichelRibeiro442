@@ -24,4 +24,4 @@ I also love writing and creating videos for my YouTube channel, where I share re
 
 ---
 
-![Footer](https://via.placeholder.com/1200x200?text=Thank+You+for+Visiting+My+Profile!+%F0%9F%92%96)
+![Footer](https://s2.r29static.com/bin/entry/eef/0,0,2000,1050/x,80/1997702/image.jpg)
